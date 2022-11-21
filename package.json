@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mass1mo3/Food_study/issues"
   },
-  "homepage": "https://github.com/mass1mo3/Food_study#readme"
+  "homepage": "https://github.com/mass1mo3/Food_study#readme",
+  "devDependencies": {
+    "webpack-cli": "^5.0.0"
+  }
 }
